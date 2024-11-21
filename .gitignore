@@ -1,0 +1,14 @@
+*.log
+*.jou
+*.wdb
+*.runs
+xsim.dir/
+vivado.*
+*.wcfg
+*.dcp
+*.bit
+*.xpr
+*.runs/
+*.cache/
+*.hw/
+*.sim/
